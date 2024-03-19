@@ -1,1 +1,1 @@
-Pratices for previous IC Cotests.
+Pratices for previous IC Contests.
